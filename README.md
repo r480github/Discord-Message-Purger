@@ -21,3 +21,5 @@ https://galxy.it.com/vids/tokenTut.mp4
 
 **No.** This script does not send your token, messages or any other data to me or any 3rd party server. There are no outside network calls anywhere in the code and everything runs locally in your browser tab
 
+** **
+<sub>this is def not vibed by claude</sub>
